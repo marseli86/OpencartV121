@@ -1,0 +1,6 @@
+2024-10-30 14:17:54 INFO  TC001_AccountRegistrationTest:18 - *****Starting TC001_AccountRegistrationTest****
+2024-10-30 14:17:55 INFO  TC001_AccountRegistrationTest:24 - Clicked on the My Account link
+2024-10-30 14:17:56 INFO  TC001_AccountRegistrationTest:26 - Clicked on the Register link
+2024-10-30 14:17:56 INFO  TC001_AccountRegistrationTest:30 - Providing Customer Details
+2024-10-30 14:17:58 INFO  TC001_AccountRegistrationTest:40 - Validating Expected Message
+2024-10-30 14:17:58 INFO  TC001_AccountRegistrationTest:54 - ****Test Finished****
